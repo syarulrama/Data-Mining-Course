@@ -1,0 +1,21 @@
+,CLIENTNUM,Attrition_Flag,Customer_Age,Gender,Education_Level,Marital_Status,Income_Category,Card_Category,Credit_Limit
+6036,720010608,Attrited Customer,37,M,Unknown,Single,$40K - $60K,Blue,10226.0
+6684,711323283,Attrited Customer,57,M,Uneducated,Married,$60K - $80K,Blue,2527.0
+4272,794707083,Attrited Customer,50,M,College,Single,$80K - $120K,Blue,3495.0
+9759,709657533,Attrited Customer,44,M,High School,Unknown,$120K +,Blue,7793.0
+4740,716625033,Attrited Customer,32,F,Graduate,Single,Less than $40K,Blue,2761.0
+9597,715076358,Attrited Customer,57,M,Post-Graduate,Unknown,$80K - $120K,Blue,23714.0
+5009,804829533,Attrited Customer,59,M,High School,Single,$60K - $80K,Blue,24621.0
+8200,712144158,Attrited Customer,53,F,Graduate,Single,Less than $40K,Blue,2370.0
+5016,795599883,Attrited Customer,57,F,Uneducated,Married,Unknown,Blue,2404.0
+8350,709222008,Attrited Customer,41,M,Unknown,Single,$80K - $120K,Blue,4742.0
+8139,809844108,Existing Customer,48,M,Doctorate,Single,$60K - $80K,Blue,8086.0
+176,716264358,Existing Customer,53,M,Uneducated,Married,$80K - $120K,Blue,26792.0
+8020,778163508,Existing Customer,37,F,High School,Married,Unknown,Blue,5245.0
+357,711857733,Existing Customer,49,M,Uneducated,Single,$60K - $80K,Blue,18584.0
+6562,720070383,Existing Customer,41,F,Uneducated,Single,Unknown,Blue,2429.0
+4563,809809008,Existing Customer,47,F,Graduate,Married,Less than $40K,Blue,3111.0
+10084,718161708,Existing Customer,46,F,Graduate,Married,Less than $40K,Blue,7562.0
+5725,771079833,Existing Customer,40,F,High School,Single,Less than $40K,Blue,1438.3
+2587,711639708,Existing Customer,42,M,Graduate,Single,$60K - $80K,Blue,1438.3
+8226,713700258,Existing Customer,55,F,Post-Graduate,Married,Unknown,Blue,2953.0
